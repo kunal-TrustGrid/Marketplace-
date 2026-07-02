@@ -49,7 +49,7 @@ The protocol secures buyer payments using an escrow mechanism, requires sellers 
 
 ---
 
-# High-Level Architecture
+# Architecture
 
 ```text
                     Frontend
